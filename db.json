@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1688225210149",
+      "number": "102",
+      "name": "oa",
+      "surname": "Karabatak",
+      "class": "12/B"
+    },
+    {
+      "id": "1688225247079",
+      "number": "100",
+      "name": "Veli",
+      "surname": "Özdemir",
+      "class": "3/B"
+    },
+    {
+      "id": "1688289581696",
+      "number": "15",
+      "name": "deneme1",
+      "surname": "2",
+      "class": "aaa"
+    }
+  ]
+}
